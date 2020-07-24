@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "title":"Kung Fu Panda",
+        "director":"Carlos Fuentes",
+        "year":"2006",
+        "rating":"5.4"
+    },
+    {
+        "id":"2",
+        "title":"Duro de Matar",
+        "director":"Señor Topo",
+        "year":"1993",
+        "rating":"10.0"
+    },
+    {
+        "id":"3",
+        "title":"La Máscara",
+        "director":"Mario Casas",
+        "year":"2003",
+        "rating":"5.3"
+    }
+]
